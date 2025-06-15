@@ -1,6 +1,6 @@
 # 🎯 Jogo do Número Secreto
 
-Um jogo divertido feito em **JavaScript**, com **geração aleatória de números** e **narrativa por voz**. A ideia é adivinhar o número secreto gerado aleatoriamente pelo `Math.random()`, com feedback sonoro via **ResponsiveVoice**.
+Um jogo divertido feito em **JavaScript**, com **geração aleatória de números**, **comentários** e **narrativa por voz**. A ideia é adivinhar o número secreto gerado aleatoriamente pelo `Math.random()`, com feedback sonoro via **ResponsiveVoice**.
 
 ---
 
